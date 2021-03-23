@@ -1,4 +1,4 @@
 # api nodejs:
-Database - Postgres <br />
-Authentication - JWT <br />
-Security - bcryptjs <br />
+* Database - Postgres.  
+* Authentication - JWT.  
+* Security - bcryptjs.  
