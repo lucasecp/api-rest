@@ -1,1 +1,1 @@
-web: npm run build 
+api_loja: npm run build 
